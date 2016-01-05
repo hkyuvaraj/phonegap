@@ -1,2 +1,2 @@
 # phonegap
-Learning phone gap and android
+Learning phone gap +  android + JQuery Mobile + HTML + CSS
